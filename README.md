@@ -3,7 +3,7 @@
 
 ## A/B test for an e-commerce website
 
-### by (Mona Alfayyadh)
+### by (Lara Alfayyadh)
 
 #### I completed this project as part of Udacity's Data Analyst Nanodegree.
 
